@@ -1,0 +1,55 @@
+﻿@model SaemNaKniga.Models.Publish_House_Models.PublishHouseAddBook
+@using SaemNaKniga.Models
+
+@{
+    ViewBag.Title = "AddBook";
+}
+
+<h2>AddBook</h2>
+
+@{
+    List<SelectListItem> bookList = new List<SelectListItem>();
+    List<SelectListItem> publushHouseList = new List<SelectListItem>();
+
+    foreach (Book book in Model.books)
+    {
+        bookList.Add(new SelectListItem() { Text = book.Name, Value = book.Id.ToString() });
+    }
+
+    foreach (PublishHouse publishHouse in Model.publishHouses)
+    {
+        publushHouseList.Add(new SelectListItem() { Text = publishHouse.Name, Value = publishHouse.Id.ToString() });
+    }
+}
+
+@using (Html.BeginForm())
+{
+    <div class="form-group">
+        <div>@Html.LabelFor(m => m.PublishHouseId)</div>
+        <div>@Html.DropDownListFor(m => m.PublishHouseId, publushHouseList, new { @class = "form-control" })</div>
+        <div>@Html.ValidationMessageFor(m => m.PublishHouseId)</div>
+    </div>
+
+    <div class="form-group">
+        <div>@Html.LabelFor(m => m.BookId)</div>
+        <div>@Html.DropDownListFor(m => m.BookId, bookList, new { @class = "form-control" })</div>
+        <div>@Html.ValidationMessageFor(m => m.BookId)</div>
+    </div>
+
+    <div class="form-group">
+        <div>@Html.LabelFor(m => m.Price)</div>
+        <div>@Html.TextBoxFor(m => m.Price, new { @class = "form-control", @type = "number" })</div>
+        <div>@Html.ValidationMessageFor(m => m.Price)</div>
+    </div>
+
+    <div class="form-group">
+        <div>@Html.LabelFor(m => m.InStock)</div>
+        <div>@Html.TextBoxFor(m => m.InStock, new { @class = "form-control", @type = "number" })</div>
+        <div>@Html.ValidationMessageFor(m => m.InStock)</div>
+    </div>
+
+    <input type="submit" value="Add This Book" />
+}
+
+@Scripts.Render("~/bundles/jquery")
+@Scripts.Render("~/bundles/jqueryval")

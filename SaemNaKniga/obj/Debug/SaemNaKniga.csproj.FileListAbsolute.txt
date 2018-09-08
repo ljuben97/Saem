@@ -1,0 +1,149 @@
+C:\Users\Angela\Documents\FINKI\Cetvrt Semestar\Internet Tehnologii\Proekt\SaemNaKniga\SaemNaKniga\bin\ApplicationInsights.config
+C:\Users\Angela\Documents\FINKI\Cetvrt Semestar\Internet Tehnologii\Proekt\SaemNaKniga\SaemNaKniga\bin\SaemNaKniga.dll.config
+C:\Users\Angela\Documents\FINKI\Cetvrt Semestar\Internet Tehnologii\Proekt\SaemNaKniga\SaemNaKniga\bin\SaemNaKniga.dll
+C:\Users\Angela\Documents\FINKI\Cetvrt Semestar\Internet Tehnologii\Proekt\SaemNaKniga\SaemNaKniga\bin\SaemNaKniga.pdb
+C:\Users\Angela\Documents\FINKI\Cetvrt Semestar\Internet Tehnologii\Proekt\SaemNaKniga\SaemNaKniga\bin\Antlr3.Runtime.dll
+C:\Users\Angela\Documents\FINKI\Cetvrt Semestar\Internet Tehnologii\Proekt\SaemNaKniga\SaemNaKniga\bin\EntityFramework.dll
+C:\Users\Angela\Documents\FINKI\Cetvrt Semestar\Internet Tehnologii\Proekt\SaemNaKniga\SaemNaKniga\bin\EntityFramework.SqlServer.dll
+C:\Users\Angela\Documents\FINKI\Cetvrt Semestar\Internet Tehnologii\Proekt\SaemNaKniga\SaemNaKniga\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Angela\Documents\FINKI\Cetvrt Semestar\Internet Tehnologii\Proekt\SaemNaKniga\SaemNaKniga\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Angela\Documents\FINKI\Cetvrt Semestar\Internet Tehnologii\Proekt\SaemNaKniga\SaemNaKniga\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Angela\Documents\FINKI\Cetvrt Semestar\Internet Tehnologii\Proekt\SaemNaKniga\SaemNaKniga\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Angela\Documents\FINKI\Cetvrt Semestar\Internet Tehnologii\Proekt\SaemNaKniga\SaemNaKniga\bin\Microsoft.AI.Web.dll
+C:\Users\Angela\Documents\FINKI\Cetvrt Semestar\Internet Tehnologii\Proekt\SaemNaKniga\SaemNaKniga\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Angela\Documents\FINKI\Cetvrt Semestar\Internet Tehnologii\Proekt\SaemNaKniga\SaemNaKniga\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Angela\Documents\FINKI\Cetvrt Semestar\Internet Tehnologii\Proekt\SaemNaKniga\SaemNaKniga\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Angela\Documents\FINKI\Cetvrt Semestar\Internet Tehnologii\Proekt\SaemNaKniga\SaemNaKniga\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Angela\Documents\FINKI\Cetvrt Semestar\Internet Tehnologii\Proekt\SaemNaKniga\SaemNaKniga\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Angela\Documents\FINKI\Cetvrt Semestar\Internet Tehnologii\Proekt\SaemNaKniga\SaemNaKniga\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Angela\Documents\FINKI\Cetvrt Semestar\Internet Tehnologii\Proekt\SaemNaKniga\SaemNaKniga\bin\Microsoft.Owin.dll
+C:\Users\Angela\Documents\FINKI\Cetvrt Semestar\Internet Tehnologii\Proekt\SaemNaKniga\SaemNaKniga\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Angela\Documents\FINKI\Cetvrt Semestar\Internet Tehnologii\Proekt\SaemNaKniga\SaemNaKniga\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Angela\Documents\FINKI\Cetvrt Semestar\Internet Tehnologii\Proekt\SaemNaKniga\SaemNaKniga\bin\Microsoft.Owin.Security.dll
+C:\Users\Angela\Documents\FINKI\Cetvrt Semestar\Internet Tehnologii\Proekt\SaemNaKniga\SaemNaKniga\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Angela\Documents\FINKI\Cetvrt Semestar\Internet Tehnologii\Proekt\SaemNaKniga\SaemNaKniga\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Angela\Documents\FINKI\Cetvrt Semestar\Internet Tehnologii\Proekt\SaemNaKniga\SaemNaKniga\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Angela\Documents\FINKI\Cetvrt Semestar\Internet Tehnologii\Proekt\SaemNaKniga\SaemNaKniga\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Angela\Documents\FINKI\Cetvrt Semestar\Internet Tehnologii\Proekt\SaemNaKniga\SaemNaKniga\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Angela\Documents\FINKI\Cetvrt Semestar\Internet Tehnologii\Proekt\SaemNaKniga\SaemNaKniga\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Angela\Documents\FINKI\Cetvrt Semestar\Internet Tehnologii\Proekt\SaemNaKniga\SaemNaKniga\bin\Newtonsoft.Json.dll
+C:\Users\Angela\Documents\FINKI\Cetvrt Semestar\Internet Tehnologii\Proekt\SaemNaKniga\SaemNaKniga\bin\Owin.dll
+C:\Users\Angela\Documents\FINKI\Cetvrt Semestar\Internet Tehnologii\Proekt\SaemNaKniga\SaemNaKniga\bin\System.Web.Helpers.dll
+C:\Users\Angela\Documents\FINKI\Cetvrt Semestar\Internet Tehnologii\Proekt\SaemNaKniga\SaemNaKniga\bin\System.Web.Mvc.dll
+C:\Users\Angela\Documents\FINKI\Cetvrt Semestar\Internet Tehnologii\Proekt\SaemNaKniga\SaemNaKniga\bin\System.Web.Optimization.dll
+C:\Users\Angela\Documents\FINKI\Cetvrt Semestar\Internet Tehnologii\Proekt\SaemNaKniga\SaemNaKniga\bin\System.Web.Razor.dll
+C:\Users\Angela\Documents\FINKI\Cetvrt Semestar\Internet Tehnologii\Proekt\SaemNaKniga\SaemNaKniga\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Angela\Documents\FINKI\Cetvrt Semestar\Internet Tehnologii\Proekt\SaemNaKniga\SaemNaKniga\bin\System.Web.WebPages.dll
+C:\Users\Angela\Documents\FINKI\Cetvrt Semestar\Internet Tehnologii\Proekt\SaemNaKniga\SaemNaKniga\bin\System.Web.WebPages.Razor.dll
+C:\Users\Angela\Documents\FINKI\Cetvrt Semestar\Internet Tehnologii\Proekt\SaemNaKniga\SaemNaKniga\bin\WebGrease.dll
+C:\Users\Angela\Documents\FINKI\Cetvrt Semestar\Internet Tehnologii\Proekt\SaemNaKniga\SaemNaKniga\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Angela\Documents\FINKI\Cetvrt Semestar\Internet Tehnologii\Proekt\SaemNaKniga\SaemNaKniga\bin\System.Web.Helpers.xml
+C:\Users\Angela\Documents\FINKI\Cetvrt Semestar\Internet Tehnologii\Proekt\SaemNaKniga\SaemNaKniga\bin\System.Web.Mvc.xml
+C:\Users\Angela\Documents\FINKI\Cetvrt Semestar\Internet Tehnologii\Proekt\SaemNaKniga\SaemNaKniga\bin\System.Web.Optimization.xml
+C:\Users\Angela\Documents\FINKI\Cetvrt Semestar\Internet Tehnologii\Proekt\SaemNaKniga\SaemNaKniga\bin\System.Web.Razor.xml
+C:\Users\Angela\Documents\FINKI\Cetvrt Semestar\Internet Tehnologii\Proekt\SaemNaKniga\SaemNaKniga\bin\System.Web.WebPages.xml
+C:\Users\Angela\Documents\FINKI\Cetvrt Semestar\Internet Tehnologii\Proekt\SaemNaKniga\SaemNaKniga\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Angela\Documents\FINKI\Cetvrt Semestar\Internet Tehnologii\Proekt\SaemNaKniga\SaemNaKniga\bin\System.Web.WebPages.Razor.xml
+C:\Users\Angela\Documents\FINKI\Cetvrt Semestar\Internet Tehnologii\Proekt\SaemNaKniga\SaemNaKniga\bin\Antlr3.Runtime.pdb
+C:\Users\Angela\Documents\FINKI\Cetvrt Semestar\Internet Tehnologii\Proekt\SaemNaKniga\SaemNaKniga\bin\Newtonsoft.Json.xml
+C:\Users\Angela\Documents\FINKI\Cetvrt Semestar\Internet Tehnologii\Proekt\SaemNaKniga\SaemNaKniga\bin\EntityFramework.xml
+C:\Users\Angela\Documents\FINKI\Cetvrt Semestar\Internet Tehnologii\Proekt\SaemNaKniga\SaemNaKniga\bin\EntityFramework.SqlServer.xml
+C:\Users\Angela\Documents\FINKI\Cetvrt Semestar\Internet Tehnologii\Proekt\SaemNaKniga\SaemNaKniga\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Angela\Documents\FINKI\Cetvrt Semestar\Internet Tehnologii\Proekt\SaemNaKniga\SaemNaKniga\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Angela\Documents\FINKI\Cetvrt Semestar\Internet Tehnologii\Proekt\SaemNaKniga\SaemNaKniga\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Angela\Documents\FINKI\Cetvrt Semestar\Internet Tehnologii\Proekt\SaemNaKniga\SaemNaKniga\bin\Microsoft.Owin.xml
+C:\Users\Angela\Documents\FINKI\Cetvrt Semestar\Internet Tehnologii\Proekt\SaemNaKniga\SaemNaKniga\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Angela\Documents\FINKI\Cetvrt Semestar\Internet Tehnologii\Proekt\SaemNaKniga\SaemNaKniga\bin\Microsoft.Owin.Security.xml
+C:\Users\Angela\Documents\FINKI\Cetvrt Semestar\Internet Tehnologii\Proekt\SaemNaKniga\SaemNaKniga\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Angela\Documents\FINKI\Cetvrt Semestar\Internet Tehnologii\Proekt\SaemNaKniga\SaemNaKniga\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Angela\Documents\FINKI\Cetvrt Semestar\Internet Tehnologii\Proekt\SaemNaKniga\SaemNaKniga\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Angela\Documents\FINKI\Cetvrt Semestar\Internet Tehnologii\Proekt\SaemNaKniga\SaemNaKniga\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Angela\Documents\FINKI\Cetvrt Semestar\Internet Tehnologii\Proekt\SaemNaKniga\SaemNaKniga\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Angela\Documents\FINKI\Cetvrt Semestar\Internet Tehnologii\Proekt\SaemNaKniga\SaemNaKniga\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Angela\Documents\FINKI\Cetvrt Semestar\Internet Tehnologii\Proekt\SaemNaKniga\SaemNaKniga\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Angela\Documents\FINKI\Cetvrt Semestar\Internet Tehnologii\Proekt\SaemNaKniga\SaemNaKniga\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Angela\Documents\FINKI\Cetvrt Semestar\Internet Tehnologii\Proekt\SaemNaKniga\SaemNaKniga\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Angela\Documents\FINKI\Cetvrt Semestar\Internet Tehnologii\Proekt\SaemNaKniga\SaemNaKniga\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Angela\Documents\FINKI\Cetvrt Semestar\Internet Tehnologii\Proekt\SaemNaKniga\SaemNaKniga\bin\Microsoft.AI.Web.xml
+C:\Users\Angela\Documents\FINKI\Cetvrt Semestar\Internet Tehnologii\Proekt\SaemNaKniga\SaemNaKniga\obj\Debug\SaemNaKniga.csprojResolveAssemblyReference.cache
+C:\Users\Angela\Documents\FINKI\Cetvrt Semestar\Internet Tehnologii\Proekt\SaemNaKniga\SaemNaKniga\obj\Debug\SaemNaKniga.csproj.CoreCompileInputs.cache
+C:\Users\Angela\Documents\FINKI\Cetvrt Semestar\Internet Tehnologii\Proekt\SaemNaKniga\SaemNaKniga\obj\Debug\SaemNaKniga.dll
+C:\Users\Angela\Documents\FINKI\Cetvrt Semestar\Internet Tehnologii\Proekt\SaemNaKniga\SaemNaKniga\obj\Debug\SaemNaKniga.pdb
+C:\Users\Angela\Documents\FINKI\Cetvrt Semestar\Internet Tehnologii\Proekt\SaemNaKniga\SaemNaKniga\obj\Debug\SaemNaKniga.Migrations.InitialModel.resources
+C:\Users\Angela\Documents\FINKI\Cetvrt Semestar\Internet Tehnologii\Proekt\SaemNaKniga\SaemNaKniga\obj\Debug\SaemNaKniga.csproj.GenerateResource.Cache
+C:\Users\Ljuben\Desktop\SaemNaKniga\SaemNaKniga\bin\ApplicationInsights.config
+C:\Users\Ljuben\Desktop\SaemNaKniga\SaemNaKniga\bin\SaemNaKniga.dll.config
+C:\Users\Ljuben\Desktop\SaemNaKniga\SaemNaKniga\bin\SaemNaKniga.dll
+C:\Users\Ljuben\Desktop\SaemNaKniga\SaemNaKniga\bin\SaemNaKniga.pdb
+C:\Users\Ljuben\Desktop\SaemNaKniga\SaemNaKniga\bin\Antlr3.Runtime.dll
+C:\Users\Ljuben\Desktop\SaemNaKniga\SaemNaKniga\bin\EntityFramework.dll
+C:\Users\Ljuben\Desktop\SaemNaKniga\SaemNaKniga\bin\EntityFramework.SqlServer.dll
+C:\Users\Ljuben\Desktop\SaemNaKniga\SaemNaKniga\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Ljuben\Desktop\SaemNaKniga\SaemNaKniga\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Ljuben\Desktop\SaemNaKniga\SaemNaKniga\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Ljuben\Desktop\SaemNaKniga\SaemNaKniga\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Ljuben\Desktop\SaemNaKniga\SaemNaKniga\bin\Microsoft.AI.Web.dll
+C:\Users\Ljuben\Desktop\SaemNaKniga\SaemNaKniga\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Ljuben\Desktop\SaemNaKniga\SaemNaKniga\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Ljuben\Desktop\SaemNaKniga\SaemNaKniga\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Ljuben\Desktop\SaemNaKniga\SaemNaKniga\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Ljuben\Desktop\SaemNaKniga\SaemNaKniga\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Ljuben\Desktop\SaemNaKniga\SaemNaKniga\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ljuben\Desktop\SaemNaKniga\SaemNaKniga\bin\Microsoft.Owin.dll
+C:\Users\Ljuben\Desktop\SaemNaKniga\SaemNaKniga\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Ljuben\Desktop\SaemNaKniga\SaemNaKniga\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Ljuben\Desktop\SaemNaKniga\SaemNaKniga\bin\Microsoft.Owin.Security.dll
+C:\Users\Ljuben\Desktop\SaemNaKniga\SaemNaKniga\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Ljuben\Desktop\SaemNaKniga\SaemNaKniga\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Ljuben\Desktop\SaemNaKniga\SaemNaKniga\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Ljuben\Desktop\SaemNaKniga\SaemNaKniga\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Ljuben\Desktop\SaemNaKniga\SaemNaKniga\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Ljuben\Desktop\SaemNaKniga\SaemNaKniga\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ljuben\Desktop\SaemNaKniga\SaemNaKniga\bin\Newtonsoft.Json.dll
+C:\Users\Ljuben\Desktop\SaemNaKniga\SaemNaKniga\bin\Owin.dll
+C:\Users\Ljuben\Desktop\SaemNaKniga\SaemNaKniga\bin\System.Web.Helpers.dll
+C:\Users\Ljuben\Desktop\SaemNaKniga\SaemNaKniga\bin\System.Web.Mvc.dll
+C:\Users\Ljuben\Desktop\SaemNaKniga\SaemNaKniga\bin\System.Web.Optimization.dll
+C:\Users\Ljuben\Desktop\SaemNaKniga\SaemNaKniga\bin\System.Web.Razor.dll
+C:\Users\Ljuben\Desktop\SaemNaKniga\SaemNaKniga\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ljuben\Desktop\SaemNaKniga\SaemNaKniga\bin\System.Web.WebPages.dll
+C:\Users\Ljuben\Desktop\SaemNaKniga\SaemNaKniga\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ljuben\Desktop\SaemNaKniga\SaemNaKniga\bin\WebGrease.dll
+C:\Users\Ljuben\Desktop\SaemNaKniga\SaemNaKniga\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ljuben\Desktop\SaemNaKniga\SaemNaKniga\bin\System.Web.Helpers.xml
+C:\Users\Ljuben\Desktop\SaemNaKniga\SaemNaKniga\bin\System.Web.Mvc.xml
+C:\Users\Ljuben\Desktop\SaemNaKniga\SaemNaKniga\bin\System.Web.Optimization.xml
+C:\Users\Ljuben\Desktop\SaemNaKniga\SaemNaKniga\bin\System.Web.Razor.xml
+C:\Users\Ljuben\Desktop\SaemNaKniga\SaemNaKniga\bin\System.Web.WebPages.xml
+C:\Users\Ljuben\Desktop\SaemNaKniga\SaemNaKniga\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ljuben\Desktop\SaemNaKniga\SaemNaKniga\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ljuben\Desktop\SaemNaKniga\SaemNaKniga\bin\Antlr3.Runtime.pdb
+C:\Users\Ljuben\Desktop\SaemNaKniga\SaemNaKniga\bin\Newtonsoft.Json.xml
+C:\Users\Ljuben\Desktop\SaemNaKniga\SaemNaKniga\bin\EntityFramework.xml
+C:\Users\Ljuben\Desktop\SaemNaKniga\SaemNaKniga\bin\EntityFramework.SqlServer.xml
+C:\Users\Ljuben\Desktop\SaemNaKniga\SaemNaKniga\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Ljuben\Desktop\SaemNaKniga\SaemNaKniga\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Ljuben\Desktop\SaemNaKniga\SaemNaKniga\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Ljuben\Desktop\SaemNaKniga\SaemNaKniga\bin\Microsoft.Owin.xml
+C:\Users\Ljuben\Desktop\SaemNaKniga\SaemNaKniga\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Ljuben\Desktop\SaemNaKniga\SaemNaKniga\bin\Microsoft.Owin.Security.xml
+C:\Users\Ljuben\Desktop\SaemNaKniga\SaemNaKniga\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Ljuben\Desktop\SaemNaKniga\SaemNaKniga\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Ljuben\Desktop\SaemNaKniga\SaemNaKniga\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Ljuben\Desktop\SaemNaKniga\SaemNaKniga\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Ljuben\Desktop\SaemNaKniga\SaemNaKniga\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Ljuben\Desktop\SaemNaKniga\SaemNaKniga\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Ljuben\Desktop\SaemNaKniga\SaemNaKniga\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Ljuben\Desktop\SaemNaKniga\SaemNaKniga\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Ljuben\Desktop\SaemNaKniga\SaemNaKniga\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Ljuben\Desktop\SaemNaKniga\SaemNaKniga\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Ljuben\Desktop\SaemNaKniga\SaemNaKniga\bin\Microsoft.AI.Web.xml
+C:\Users\Ljuben\Desktop\SaemNaKniga\SaemNaKniga\obj\Debug\SaemNaKniga.csprojAssemblyReference.cache
+C:\Users\Ljuben\Desktop\SaemNaKniga\SaemNaKniga\obj\Debug\SaemNaKniga.Migrations.InitialModel.resources
+C:\Users\Ljuben\Desktop\SaemNaKniga\SaemNaKniga\obj\Debug\SaemNaKniga.csproj.GenerateResource.cache
+C:\Users\Ljuben\Desktop\SaemNaKniga\SaemNaKniga\obj\Debug\SaemNaKniga.csproj.CoreCompileInputs.cache
+C:\Users\Ljuben\Desktop\SaemNaKniga\SaemNaKniga\obj\Debug\SaemNaKniga.csproj.CopyComplete
+C:\Users\Ljuben\Desktop\SaemNaKniga\SaemNaKniga\obj\Debug\SaemNaKniga.dll
+C:\Users\Ljuben\Desktop\SaemNaKniga\SaemNaKniga\obj\Debug\SaemNaKniga.pdb
+C:\Users\Ljuben\Desktop\SaemNaKniga\SaemNaKniga\obj\Debug\SaemNaKniga.Migrations.AddedLinks.resources
+C:\Users\Ljuben\Desktop\SaemNaKniga\SaemNaKniga\obj\Debug\SaemNaKniga.Migrations.AddedNotMappedToBookExtended.resources
