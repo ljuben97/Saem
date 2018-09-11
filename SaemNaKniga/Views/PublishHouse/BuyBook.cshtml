@@ -28,12 +28,11 @@
         <div style="width: 45%; float:left;">
             <img style="width:100%;" src="@Model.bookExtended.ImgUrl" />
             <h3 class="h3 book-name">@Model.bookExtended.Name</h3>
-            <h3 class="h3 book-name">Year Released: @Model.bookExtended.Year</h3>
         </div>
         <div style="width: 45%; margin-left:5%; float:left">
-            <h3 class="h3 book-details">Released in: @Model.bookExtended.Year</h3>
-            <h3 class="h3 book-details" id="available">Available Units: @Model.bookExtended.Units</h3>
-            <h3 class="h3 book-details">Price: @Model.bookExtended.Price USD</h3>
+            <h3 class="h3 book-details">Година на издавање: @Model.bookExtended.Year</h3>
+            <h3 class="h3 book-details" id="available">Број на книги: @Model.bookExtended.Units</h3>
+            <h3 class="h3 book-details">Цена: @Model.bookExtended.Price Денари</h3>
             <br />
             @using (Html.BeginForm())
             {
@@ -43,7 +42,7 @@
                     <div>@Html.ValidationMessageFor(m => m.UnitsBuy)</div>
                 </div>
 
-                <h3 id="total">Total price: 0 USD</h3>
+                <h3 id="total">Вукпна цена: 0 денари</h3>
 
                 <div style="display:none" class="form-group">
                     <div>@Html.LabelFor(m => m.BookId)</div>
@@ -57,7 +56,7 @@
                     <div>@Html.ValidationMessageFor(m => m.PublishHouseId)</div>
                 </div>
 
-                <input class="btn-card" type="submit" id="submit" value="Buy Book" />
+                <input class="btn-card" type="submit" id="submit" value="Купи ја книгата" />
             }
         </div>
     </div>
@@ -74,21 +73,21 @@
             var quantity = $("#quantity").val();
             if (quantity < 0) {
                 $("#available").css("color", "red");
-                $("#available").html("Don't put a negative number!");
+                $("#available").html("Не внесувајте негативен број!");
                 $("#submit").prop('disabled', true);
             }
             else {
                 var price =@Model.bookExtended.Price;
                 var available =@Model.bookExtended.Units-quantity;
-                $("#total").html("Total price: " + quantity * price + " USD");
+                $("#total").html("Вкупна цена: " + quantity * price + " денари");
                 if (available >= 0) {
                     $("#available").css("color", "black");
-                    $("#available").html("Available Units: " + available);
+                    $("#available").html("Број на книги: " + available);
                     $("#submit").prop('disabled', false);
                 }
                 else {
                     $("#available").css("color", "red");
-                    $("#available").html("Not enough units available!");
+                    $("#available").html("Нема доволно книги за купување!");
                     $("#submit").prop('disabled', true);
                 }
             }

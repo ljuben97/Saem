@@ -13,17 +13,18 @@ namespace SaemNaKniga.Models.Publish_House_Models
         public List<Book> books { get; set; }
 
 
-        [Required]
-        [Display(Name ="Select a Book")]
+        [Required (ErrorMessage ="Мора да имате избрано книга")]
+        [Display(Name ="Изберете книга")]
         public int BookId { get; set; }
 
         public int PublishHouseId { get; set; }
 
-        [Required]
+        [Required (ErrorMessage ="Мора да внесите цена во полето")]
+        [Display(Name ="Цена")]
         public int Price { get; set; }
 
-        [Required]
-        [Display(Name ="Units")]
+        [Required (ErrorMessage ="Мора да имате внесено број на книги")]
+        [Display(Name ="Број на книги")]
         public int InStock { get; set; }
     }
 }

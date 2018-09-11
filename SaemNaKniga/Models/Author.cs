@@ -10,13 +10,16 @@ namespace SaemNaKniga.Models
     {
         [Key]
         public int Id { set; get; }
-        [Required]
+        [Required (ErrorMessage ="Мора да внесите име во полето")]
+        [Display(Name ="Име")]
         public string Name { set; get; }
-        [Required]
+        [Required (ErrorMessage ="Мора да внесите пол во полето")]
+        [Display(Name ="Пол")]
         public int Gender { set; get; }
-        [Required]
-        [Display(Name="Image URL")]
+        [Required(ErrorMessage ="Мора да внесите линк од сликата")]
+        [Display(Name="Линк од Слика")]
         public string ImgUrl { set; get; }
+        [Display(Name ="Кратка Биографија")]
         public string Biography { set; get; }
         public virtual ICollection<Book> Books { set; get; }
 

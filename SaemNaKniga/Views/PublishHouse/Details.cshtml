@@ -37,10 +37,10 @@
                             </div>
                             <div class="card-desc">
                                 <h3 class="h3">@book.Name</h3>
-                                <p class="p">Price: $@book.Price</p>
-                                <p class="p">Available Units: @book.Units</p>
+                                <p class="p">Цена: @book.Price денари</p>
+                                <p class="p">Број на книги: @book.Units</p>
                                 <br />
-                                @Html.ActionLink("Buy This Book", "BuyBook/", "PublishHouse", new { PublishHouseId=Model.publishHouse.Id, BookId=book.Id}, new { @class = "btn-card" })
+                                @Html.ActionLink("Купи", "BuyBook/", "PublishHouse", new { PublishHouseId = Model.publishHouse.Id, BookId = book.Id }, new { @class = "btn-card" })
                             </div>
                         </div>
                     </div>

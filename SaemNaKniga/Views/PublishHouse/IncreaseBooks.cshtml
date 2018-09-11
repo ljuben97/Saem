@@ -39,7 +39,7 @@
                 <img class="image img-fluid" style="width: 90%" src="@book.ImgUrl" />
                 <div class="card-desc">
                     <h2 class="h3">@book.Name</h2>
-                    <h3 class="h3">Year release: @book.Year</h3>
+                    <h3 class="h3">Година: @book.Year</h3>
                 </div>
             </div>
             @for (int i = 1; i < Model.books.Count; i++)
@@ -49,7 +49,7 @@
                     <img class="image img-fluid" style="width: 90%" src="@bookMore.ImgUrl" />
                     <div class="card-desc">
                         <h2 class="h3">@bookMore.Name</h2>
-                        <h3 class="h3">Year release: @bookMore.Year</h3>
+                        <h3 class="h3">Година: @bookMore.Year</h3>
                     </div>
                 </div>
             }
@@ -99,7 +99,7 @@
                     }
                 }
 
-                <input class="btn-card" type="submit" value="Add More Units" />
+                <input class="btn-card" type="submit" value="Зголеми број на книги" />
             }
         </div>
     </div>

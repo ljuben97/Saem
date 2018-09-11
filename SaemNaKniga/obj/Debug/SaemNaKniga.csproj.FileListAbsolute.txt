@@ -147,3 +147,4 @@ C:\Users\Ljuben\Desktop\SaemNaKniga\SaemNaKniga\obj\Debug\SaemNaKniga.dll
 C:\Users\Ljuben\Desktop\SaemNaKniga\SaemNaKniga\obj\Debug\SaemNaKniga.pdb
 C:\Users\Ljuben\Desktop\SaemNaKniga\SaemNaKniga\obj\Debug\SaemNaKniga.Migrations.AddedLinks.resources
 C:\Users\Ljuben\Desktop\SaemNaKniga\SaemNaKniga\obj\Debug\SaemNaKniga.Migrations.AddedNotMappedToBookExtended.resources
+C:\Users\Ljuben\Desktop\SaemNaKniga\SaemNaKniga\obj\Debug\SaemNaKniga.Migrations.NaMakedonski.resources

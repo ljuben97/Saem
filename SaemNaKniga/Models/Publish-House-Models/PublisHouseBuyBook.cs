@@ -12,8 +12,8 @@ namespace SaemNaKniga.Models.Publish_House_Models
         public PublishHouse publishHouse { get; set; }
         public BookExtended bookExtended { get; set; }
 
-        [Required(ErrorMessage ="You must enter the number of books you would like to buy")]
-        [Display(Name ="Enter the number of books you would like to buy")]
+        [Required(ErrorMessage ="Мора да внесите број на книги")]
+        [Display(Name ="Внесете број на книги")]
         public int UnitsBuy { get; set; }
 
         public int BookId { get; set; }

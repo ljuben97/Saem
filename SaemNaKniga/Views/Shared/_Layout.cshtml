@@ -22,12 +22,13 @@
 				@Html.ActionLink("Саем на книга", "Index", "Home", new { area = "" }, new { @class = "navbar-title" })
 			</div>
 			<div class="navbar-collapse collapse">
-				<ul id="bg" class="nav navbar-nav navbar-positionize">
-					<li>@Html.ActionLink("Home", "Index", "Home", new { @class = "navbar-options" })</li>
-					<li>@Html.ActionLink("About", "About", "Home", new { @class = "navbar-options" })</li>
-					<li>@Html.ActionLink("Contact", "Contact", "Home", new { @class = "navbar-options" })</li>
-					@Html.Partial("_LoginPartial")
-				</ul>
+                <ul id="bg" class="nav navbar-nav navbar-positionize">
+                    <li>@Html.ActionLink("Дома", "Index", "Home", null, new { @class = "navbar-options" })</li>
+                    <li>@Html.ActionLink("За нас", "About", "Home", null, new { @class = "navbar-options" })</li>
+                    <li>@Html.ActionLink("Контакт", "Contact", "Home", null, new { @class = "navbar-options" })</li>
+                    <li>@Html.ActionLink("Издавачки куќи", "Index", "PublishHouse", null, new { @class = "navbar-options" })</li>
+                    @Html.Partial("_LoginPartial")
+                </ul>
 			</div>
 		</div>
 	</div>
